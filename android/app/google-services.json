@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462216250572",
+    "project_id": "firstflutter-b478f",
+    "storage_bucket": "firstflutter-b478f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462216250572:android:9093260f03f764252fae69",
+        "android_client_info": {
+          "package_name": "com.firstApp.todoflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462216250572-o8mc0iasccfsgb1r21n6329fh97sas19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3VKDHSENGaWHqsMSIjUo8oBl7znpD1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462216250572-o8mc0iasccfsgb1r21n6329fh97sas19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
